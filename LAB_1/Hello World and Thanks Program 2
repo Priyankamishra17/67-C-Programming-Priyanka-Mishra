@@ -1,0 +1,18 @@
+/*Program to print HELLO WORLD and THANKS*/
+#include <stdio.h>
+void main ()
+{
+    printf("HELLO WORLD!!!");
+    printf("\nTHANKS...");
+}
+
+OR
+
+/*Program to print HELLO WORLD and THANKS*/
+#include <stdio.h>
+int main ()
+{
+    printf("HELLO WORLD!!!");
+    printf("\nTHANKS...");
+    return 0;
+}
