@@ -11,7 +11,7 @@ int main ()
     f=c-b;
     g=c+b;
     h=c-a;
-    i=c=a;
+    i=c+a;
     printf("%d",c==d);
     printf("\n%d",c==e);
     printf("\n%d",a==f);
