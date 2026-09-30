@@ -1,4 +1,4 @@
-/*Relational Operations 1*/
+/*Relational Operations 2*/
 #include <stdio.h>
 int main ()
 {
